@@ -1,0 +1,12 @@
+#heading {
+    color: rgb(206, 91, 9);
+}
+#child {
+    border-color: rgb(255, 106, 0);
+
+}
+#headings {
+    border: solid 1px;
+    padding: 10px;
+    border-color: rgb(255, 106, 0);
+}
